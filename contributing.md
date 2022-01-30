@@ -28,19 +28,18 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behaviour to Chris via Twitter, @reddobowen.
+This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behaviour by private messaged on Twitter to @reddobowen.
 
 ## I Have a Question
 
-> If you want to ask a question, we assume that you have read the available Documentation in the README file. Further documentation is on the backlog and could be an excellent contribution.
+> If you want to ask a question, we assume that you have read the available Documentation in the README file.
 
 Before you ask a question, it is best to search for existing [Issues](../../issues) that might help you. In case you have found a suitable issue and still need clarification, you can write your question in this issue. It is also advisable to search the internet for answers first.
 
 If you then still feel the need to ask a question and need clarification, we recommend the following:
 
 - Open an [Issue](../../issues/new).
-- Provide as much context as you can about what you're running into.
-- Provide project and platform versions (.NET Version, Azure Function Version, etc), depending on what seems relevant.
+- Provide as much context as you can about what you're running into using the helpful form.
 
 We will then take care of the issue as soon as possible.
 
@@ -89,13 +88,13 @@ Once it's filed:
 
 ### Suggesting Enhancements
 
-This section guides you through submitting an enhancement suggestion for Content Cross Poster, **including completely new features and minor improvements to existing functionality**. Following these guidelines will help maintainers and the community to understand your suggestion and find related suggestions.
+This section guides you through submitting an enhancement suggestion for the Hugo Creator theme, **including completely new features and minor improvements to existing functionality**. Following these guidelines will help maintainers and the community to understand your suggestion and find related suggestions.
 
 <!-- omit in toc -->
 #### Before Submitting an Enhancement
 
 - Make sure that you are using the latest version.
-- Read the documentation (coming soon) carefully and find out if the functionality is already covered, maybe by an individual configuration.
+- Read the documentation carefully and find out if the functionality is already covered, maybe by an individual configuration.
 - Perform a [search](../../issues) to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
 - Find out whether your idea fits with the scope and aims of the project. It's up to you to make a strong case to convince the project's developers of the merits of this feature. Keep in mind that we want features that will be useful to the majority of our users and not just a small subset. If you're just targeting a minority of users, consider writing an add-on/plugin library.
 
@@ -108,30 +107,7 @@ Enhancement suggestions are tracked as [GitHub issues](../../issues).
 - Provide a **step-by-step description of the suggested enhancement** in as many details as possible.
 - **Describe the current behavior** and **explain which behavior you expected to see instead** and why. At this point you can also tell which alternatives do not work for you.
 - You may want to **include screenshots and animated GIFs** which help you demonstrate the steps or point out the part which the suggestion is related to. You can use [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux. <!-- this should only be included if the project has a GUI -->
-- **Explain why this enhancement would be useful** to most Content Cross Poster users. You may also want to point out the other projects that solved it better and which could serve as inspiration.
-
-### Suggesting Enhancements
-
-This section guides you through submitting an enhancement suggestion for Content Cross Poster, **including completely new features and minor improvements to existing functionality**. Following these guidelines will help maintainers and the community to understand your suggestion and find related suggestions.
-
-<!-- omit in toc -->
-#### Before Submitting an Enhancement
-
-- Make sure that you are using the latest version.
-- Read the documentation (coming soon) carefully and find out if the functionality is already covered, maybe by an individual configuration.
-- Perform a [search](issues) to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
-- Find out whether your idea fits with the scope and aims of the project. It's up to you to make a strong case to convince the project's developers of the merits of this feature. Keep in mind that we want features that will be useful to the majority of our users and not just a small subset. If you're just targeting a minority of users, consider writing an add-on/plugin library.
-
-<!-- omit in toc -->
-#### How Do I Submit a Good Enhancement Suggestion?
-
-Enhancement suggestions are tracked as [GitHub issues](issues).
-
-- Use a **clear and descriptive title** for the issue to identify the suggestion.
-- Provide a **step-by-step description of the suggested enhancement** in as many details as possible.
-- **Describe the current behaviour** and **explain which behaviour you expected to see instead** and why. At this point you can also tell which alternatives do not work for you.
-- You may want to **include screenshots and animated GIFs** which help you demonstrate the steps or point out the part which the suggestion is related to. You can use [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux. <!-- this should only be included if the project has a GUI -->
-- **Explain why this enhancement would be useful** to most Content Cross Poster users. You may also want to point out the other projects that solved it better and which could serve as inspiration.
+- **Explain why this enhancement would be useful** to most Hugo Creator users. You may also want to point out the other projects that solved it better and which could serve as inspiration.
 
 ### We Use [Github Flow](https://guides.github.com/introduction/flow/index.html), So All Code Changes Happen Through Pull Requests
 Pull requests are the best way to propose changes to the codebase (we use [Github Flow](https://guides.github.com/introduction/flow/index.html)). We actively welcome your pull requests:
@@ -156,9 +132,9 @@ Pull requests are the best way to propose changes to the codebase (we use [Githu
 
 ### Setting up your development environment
 
-COMING SOON: To make contributing to the project easier, we have included the [necessary files](.devcontainer) to use **Dev Containers** within Visual Studio Code or GitHub Codespaces.
+To make contributing to the project easier, we have included the [necessary files](.devcontainer) to use **Dev Containers** within Visual Studio Code or GitHub Codespaces.
 
-You can find more about Dev Containers [here](https://code.visualstudio.com/docs/remote/containers). If you already have docker and Visual Studio Code installed on your machine, then this will mean that you don't need to install .NET Core and any additional project pre-requisites directly onto your machine, but can use the "Visual Studio Code Remote - Containers" extension to develop locally.
+You can find more about Dev Containers [here](https://code.visualstudio.com/docs/remote/containers). If you already have docker and Visual Studio Code installed on your machine, then this will mean that you don't need to install Hugo and any additional project pre-requisites directly onto your machine, but can use the "Visual Studio Code Remote - Containers" extension to develop locally.
 
 Pre-Requisites:
 * Either - 
